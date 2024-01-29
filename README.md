@@ -1,5 +1,6 @@
 Hello World!
-Student at University Federal of Viçosa - Information Systems 
+I'm a student at University Federal of Viçosa - Information Systems 
+Welcome to my profile 🍀
  <!---->
 
 <div align="center" dir="auto">
