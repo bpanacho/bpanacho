@@ -1,6 +1,5 @@
-Oi, prazer!
-- 💬 Pronomes: ela/dela
-- 💬 Estudante de Sistemas de Informação
+Hello World!
+Student at University Federal of Viçosa - Information Systems 
  <!---->
 
 <div align="center" dir="auto">
