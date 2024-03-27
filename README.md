@@ -1,7 +1,9 @@
 Hello World!
-I'm a student at University Federal of Viçosa - Information Systems
+I'm a student at University Federal of Viçosa - Information Systems.
 
-Welcome to my profile 🍀
+Welcome to my profile!
+
+Focus on: - Computer Vision, Artificial Intelligence, Data Science and a little bit of Front-End and Database.
 
  <!---->
 
